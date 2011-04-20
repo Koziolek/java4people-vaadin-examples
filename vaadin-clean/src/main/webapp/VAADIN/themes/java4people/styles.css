@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+@import "../runo/styles.css";
+
+.v-view .v-verticallayout {
+	height: 80%;
+}
+
+.slide-center {
+	width: 80%;
+	height: 100%;
+	margin-left: 10%;
+	border: 1px solid red;
+}
+.slide-title{
+	font-size: 26px;
+	text-align: center;
+}
